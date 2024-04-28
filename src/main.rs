@@ -1,3 +1,7 @@
+//Program that reads a CSV file, processes the data, and performs some computations.
+// This example will cover reading and writing files, using data structures,
+// error handling, and more.
+
 use std::fs::File;
 use std::io::{self, BufRead};
 use std::error::Error;
